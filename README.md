@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Padda Rohit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently learning **C,C++,Javascrpit**
+- 🔭 I’m currently learning **C++,Javascrpit**
 
 - 🌱 I’m currently learning **React, Node JS**
 
