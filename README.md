@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/paddarohitkumar" target="blank"><img src="https://img.shields.io/twitter/follow/paddarohitkumar?logo=twitter&style=for-the-badge" alt="paddarohitkumar" /></a> </p>
 
-- 🔭 I’m currently learning **C,C++,Javascrpit**
 
-- 🌱 I’m currently learning **React, Node JS**
+- 🌱 I’m currently learning **C,C++,JavaScript,Node JS**
 
 - 🤝 I’m looking for help with **Full Stack Development**
 
